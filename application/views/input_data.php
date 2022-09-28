@@ -2,6 +2,7 @@
     <head>
         <title>Input Data Mahasiswa</title>
     </head>
+    
     <body>
         <center>
             <h1> Input Data Mahasiswa</h1>
